@@ -1,8 +1,8 @@
 {
   "name": "mojang-net",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minecraft net Module for Minecraft Bedrock Edition",
-  "main": "dist/index.d.ts",
+  "main": "dist/index.ts",
   "homepage": "https://github.com/wuw6248/mojang-net",
   "author": "@wuw6248 (https://github.com/wuw6248)",
   "repository": {
